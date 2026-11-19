@@ -236,10 +236,17 @@ Tablero de control con métricas KPI, sliders de restricciones mínimas y gráfi
 
 ---
 
-### 3. Reporte Ejecutivo Exportado (PDF)
+### 3.1. Reporte Ejecutivo Exportado (PDF)
 Documento formal generado automáticamente listo para su entrega a comités de dirección.
 
 ![Reporte PDF Generado](./docs/screenshots/03-reporte-pdf.png)
+
+---
+
+### 3.2. Reporte en el dashboard
+Muestra de las metricas en la pantalla del dashboard
+
+![Reporte PDF Generado](./docs/screenshots/03-reporte_pantalla_principal.png)
 
 ---
 
