@@ -1,11 +1,17 @@
 # Marketing Mix & Budget Optimizer DSS (Sistema de Optimización de ROI)
 
 [![Status: Active Demo](https://img.shields.io/badge/Status-Demo%20Activa%20%2F%20Producción-success?style=for-the-badge&logo=statuspage)](https://github.com/Eladio1234)
+
 [![React 19](https://img.shields.io/badge/React-19.2.4-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
 [![Express 5](https://img.shields.io/badge/Express-5.2.1-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+
 [![Vite](https://img.shields.io/badge/Vite-8.0.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue?style=for-the-badge)](./backend-roi/package.json)
 
 > **Sistema de Soporte a la Decisión (DSS)** full-stack diseñado para maximizar el retorno de inversión publicitaria mediante un motor de optimización matemática con restricciones dinámicas, analítica interactiva y generación de reportes ejecutivos en PDF.
@@ -270,7 +276,7 @@ Sigue estos pasos para clonar, configurar y ejecutar el proyecto en tu máquina 
 
 ### 2. Clonación del Repositorio
 ```bash
-git clone https://github.com/Eladio1234/poke-api.git sistema-roi
+git clone https://github.com/Eladio1234/System-ROI.git
 cd sistema-roi
 ```
 
@@ -397,8 +403,8 @@ La API REST expuesta por el servidor Express incluye los siguientes puntos de ac
 *Lead Software Engineer & Full Stack Developer*
 
 - **GitHub:** [@Eladio1234](https://github.com/Eladio1234)
-- **LinkedIn:** [Luis Eladio Zárate Gómez](https://www.linkedin.com/in/luis-eladio-z%C3%A1rate-g%C3%B3mez-4866b22b1/)
-- **Portafolio:** [Proyectos y Soluciones de Software](https://github.com/Eladio1234)
+- **LinkedIn:** [Luis Eladio Zárate Gómez](https://www.linkedin.com/in/luis-eladio-zarate-gómez-621424405/)
+- **Portafolio:** [Proyectos y Soluciones de Software](https://portafolio-eladio.onrender.com)
 
 ---
 
